@@ -67,7 +67,11 @@ h1{
   padding:3px;
   font-weight: bold;
   text-align:start;
+  width:220px;
 }
 
-
+.movie img{
+  height: 220px;
+  width: 200px;
+}
 
