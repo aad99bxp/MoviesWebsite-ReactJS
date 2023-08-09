@@ -10,6 +10,7 @@ function App() {
             {
                 movies.map((element, index) => {
                     return(
+                        //comment
                     <Movie
                         key={index}
                         title={element.Title}
